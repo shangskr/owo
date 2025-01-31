@@ -30,7 +30,7 @@
 您也可以在twikoo中直接调用owo.json进行使用：
 
 ```
-https://fastly.jsdelivr.net/gh/shangskr/owo/owo_anxiaowai.json
+https://fastly.jsdelivr.net/gh/shangskr/owo/owo.json
 ```
 
 ## 贡献
