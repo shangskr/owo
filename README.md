@@ -6,7 +6,7 @@
 
 ## 介绍
 
-- [fork源仓库](https://github.com/willow-god/owo)，适当删减，达到个人需求！
+- [源仓库](https://github.com/willow-god/owo)，适当删减，达到个人需求！
 
 ## 表情包列表
 
